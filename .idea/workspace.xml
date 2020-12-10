@@ -2,10 +2,42 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="73359c78-5351-4d2c-a22d-32761f04cf67" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.vs/ProjectSettings.json" beforeDir="false" afterPath="$PROJECT_DIR$/.vs/ProjectSettings.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/media/bg/133.jpeg" beforeDir="false" afterPath="$PROJECT_DIR$/media/bg/133.jpeg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/css/webslides.css" beforeDir="false" afterPath="$PROJECT_DIR$/static/css/webslides.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/11.PNG.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/21.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/22.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/31.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/32.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/33.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/34.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/51.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/522.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/81.png" beforeDir="false" afterPath="$PROJECT_DIR$/media/81.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/bg/1.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/bg/10.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/bg/11.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/bg/12.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/bg/122.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/bg/13.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/bg/133.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/bg/2.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/bg/3.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/bg/4.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/bg/5.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/bg/6.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/bg/7.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/bg/8.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/bg/9.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/f1.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/f2.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/f3.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/f4.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/f5.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/f6.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/f7.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/f8.jpeg" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -34,7 +66,10 @@
     <property name="settings.editor.selected.configurable" value="web.server" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="JavaScript Debug.index.html (1)">
+    <configuration name="index.html (1)" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/biogeohub.github.io/index.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
     <configuration name="index.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/index.html" useBuiltInWebServerPort="true">
       <method v="2" />
     </configuration>
@@ -43,6 +78,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JavaScript Debug.index.html (1)" />
         <item itemvalue="JavaScript Debug.index.html" />
         <item itemvalue="JavaScript Debug.index.html" />
       </list>
@@ -57,6 +93,7 @@
       <option name="presentableId" value="Default" />
       <updated>1607560411747</updated>
       <workItem from="1607560412904" duration="5427000" />
+      <workItem from="1607570003605" duration="2020000" />
     </task>
     <servers />
   </component>
@@ -80,22 +117,22 @@
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
     <state x="545" y="394" key="FileChooserDialogImpl/0.0.2560.1400@0.0.2560.1400" timestamp="1607562385699" />
-    <state width="2539" height="328" key="GridCell.Tab.0.bottom" timestamp="1607565891727">
+    <state width="2539" height="328" key="GridCell.Tab.0.bottom" timestamp="1607570295775">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state width="2539" height="328" key="GridCell.Tab.0.bottom/0.0.2560.1400@0.0.2560.1400" timestamp="1607565891727" />
-    <state width="2539" height="328" key="GridCell.Tab.0.center" timestamp="1607565891727">
+    <state width="2539" height="328" key="GridCell.Tab.0.bottom/0.0.2560.1400@0.0.2560.1400" timestamp="1607570295775" />
+    <state width="2539" height="328" key="GridCell.Tab.0.center" timestamp="1607570295775">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state width="2539" height="328" key="GridCell.Tab.0.center/0.0.2560.1400@0.0.2560.1400" timestamp="1607565891727" />
-    <state width="2539" height="328" key="GridCell.Tab.0.left" timestamp="1607565891727">
+    <state width="2539" height="328" key="GridCell.Tab.0.center/0.0.2560.1400@0.0.2560.1400" timestamp="1607570295775" />
+    <state width="2539" height="328" key="GridCell.Tab.0.left" timestamp="1607570295775">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state width="2539" height="328" key="GridCell.Tab.0.left/0.0.2560.1400@0.0.2560.1400" timestamp="1607565891727" />
-    <state width="2539" height="328" key="GridCell.Tab.0.right" timestamp="1607565891727">
+    <state width="2539" height="328" key="GridCell.Tab.0.left/0.0.2560.1400@0.0.2560.1400" timestamp="1607570295775" />
+    <state width="2539" height="328" key="GridCell.Tab.0.right" timestamp="1607570295775">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state width="2539" height="328" key="GridCell.Tab.0.right/0.0.2560.1400@0.0.2560.1400" timestamp="1607565891727" />
+    <state width="2539" height="328" key="GridCell.Tab.0.right/0.0.2560.1400@0.0.2560.1400" timestamp="1607570295775" />
     <state width="2539" height="328" key="GridCell.Tab.1.bottom" timestamp="1607565891728">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
